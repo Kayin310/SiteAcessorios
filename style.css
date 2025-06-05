@@ -353,6 +353,7 @@ header nav ul li:hover::after {
   left: 70%;
 }
 
+
 @media (max-width: 720px) {
   body {
     overflow: hidden;
@@ -393,8 +394,5 @@ header nav ul li:hover::after {
   .arrow-btn {
     width: 25px;
     height: 25px;
-  }
-  .dots{
-    margin-bottom: 30px;
   }
 }
